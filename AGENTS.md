@@ -36,4 +36,5 @@ deferred.
 - Any amendment to an existing artifact must add or update a timestamped
   `## Revision History`.
 - Prefer local adoption notes over copied partner history.
+- No `Co-Authored-By` trailer.
 - Do not push unless the user explicitly asks.
